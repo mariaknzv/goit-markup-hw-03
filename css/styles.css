@@ -192,7 +192,7 @@ img {
 }
 
 
-visually-hidden {
+.visually-hidden {
     position: absolute;
     width: 1px;
     height: 1px;
@@ -400,7 +400,7 @@ visually-hidden {
     letter-spacing: 0.04em;
     border: none;
     padding: 12px 24px;
-    1px solid #e7e9fc;
+    border: 1px solid #e7e9fc;
     border-radius: 4px;
 }
 
